@@ -9,4 +9,4 @@ def create_pattern():
         # Print both sections side by side
         print(left_section + "   " + right_section)
 
-create_pattern()
+create_pattern()\
